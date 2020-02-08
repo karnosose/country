@@ -1,0 +1,31 @@
+.countryCard{
+    width:200px;
+    font-size:30px;
+    margin-top:20px;
+display: inline-block;
+min-height: 333px;
+
+}
+.cardDiv{
+    display:flex;
+    flex-wrap:nowrap;
+    margin-top:40px;
+}
+.countryDetails p{
+    font-size: 10px;
+}
+.learnMore button{
+    font-size:10px;
+}
+.countryCard{
+    margin:10px;
+}
+.learnMore{
+    text-transform: lowercase;
+    text-decoration: none;
+    color:black;
+    background:rgb(235, 233, 233);
+    border-radius: 5px;
+    padding:5px;
+}
+
